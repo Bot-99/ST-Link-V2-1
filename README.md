@@ -1,8 +1,6 @@
 # ST-Link-V2-1
 
-## Target
+typec
+stlink + ttl
 
-1. 0402
-2. Single side component
-3. TypeC
-4. Soldering jumper
+cfg: stlink-v2.cfg / stlink-v2_1.cfg

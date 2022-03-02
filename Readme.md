@@ -1,5 +1,5 @@
 # STLINK-V2.1
-## HKUST Robotics Tean
+## HKUST Robotics Team
 ## Func
 TypeC + STlink + TTL
 

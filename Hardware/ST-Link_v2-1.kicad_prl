@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 50,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "7fcffff_80000001",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ST-Link_v2-1.kicad_prl",
